@@ -1,3 +1,2 @@
-# Daily-code
-# Daily-code
-# Daily-code
+# Hey,this is my first use Github to store code
+# Nice to meet you!
